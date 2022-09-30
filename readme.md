@@ -24,7 +24,7 @@ This  project of javascript is made from pure HTML,CSS and Javascript.
 
 ## Links
 
-[Link](javascriptmypasswordgenerator.netlify.app)
+[Link](https://javascriptmypasswordgenerator.netlify.app/)
 
 [Linkedin](https://www.linkedin.com/in/pratyush-kesarwani-2b6601171/)
 
